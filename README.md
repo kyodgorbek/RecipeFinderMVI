@@ -21,4 +21,5 @@ The Recipe Finder App is a demonstration of how to build a modern Android app us
 - View detailed recipe information
 - Clean and modular architecture using MVI
 - Kotlin programming language
-- Implemented TDD using JUnit and Mockito
+- Employed Test-Driven Development (TDD) with the assistance of JUnit and Mockito frameworks.
+- Utilized Ktor to facilitate network operations.
