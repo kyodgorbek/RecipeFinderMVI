@@ -5,12 +5,15 @@ Welcome to the Recipe Finder App repository! This repository contains the source
 
 
 ####  Overview
+---
 The Recipe Finder App is a demonstration of how to build a modern Android app using the MVI architectural pattern. It showcases best practices for app architecture, user interface design, and interaction. Users can search for recipes, view details, and more.
 
  ####  API
+ ---
 - https://themealdb.com/
 
- Features
+ #### Features
+ ---
 - Get a random recipe from the API
 - Search for recipes using keywords
 - View detailed recipe information
